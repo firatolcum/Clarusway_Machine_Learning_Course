@@ -6,7 +6,7 @@ This repository includes 17 sessions, 5 labs, 4 case studies, 5 weekly agendas, 
 
 This repository contains the following topics :
   1. Supervised Learning:
-  - Linear Regression
+    - Linear Regression
   - Bias Variance Trade-off (Overfitting / Underfitting)
   - Polynomial Regression
   - Regularization
