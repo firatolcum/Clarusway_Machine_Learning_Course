@@ -3,7 +3,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/firatolcum) 
 [![View My Portfolio Page](https://img.shields.io/badge/View-My_Portfolio-orange?logo=Port)](https://firatolcum.social/) 
 
-# Clarusway Machine Learning <img src="https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="200" />
+# Clarusway Machine Learning <img src="https://github.com/firatolcum/Clarusway_Machine_Learning_Course/blob/master/6-Certificates/Clarusway.png" align="right" width="200" />
 
 ## 📣 About this Machine Learning Course
 A growing number of companies are developing machine learning products, increasing the demand for engineers who can deploy machine learning models to a global audience. Clarusway Machine Learning Course is designed to help you gain the advanced skills you need to become a machine learning engineer. 
