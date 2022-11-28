@@ -29,10 +29,9 @@ This certificate is given to students who successfully graduated from the Clarus
 
 - [x] [__Deep Learning__](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/2-DataVisualizationWithPython.jpg)
 
-**Topics Covered:** Matplotlib, Seaborn, Plotly
+**Topics Covered:** Tensorflow, Keras(Neural Network Library)
 
-This certificate is given to students who successfully completed the Clarusway Data Visualization with Python Course in the Data Analytics Module after **20 hours** of intensive work. During the course, the student completed **2 assignments and one project**. They completed **50+ hours** of pre-class and post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
-
+This certificate is given to students who successfully graduated from the Clarusway Deep Learning Course after **36 hours** of live online course. During the course, our students completed **5 projects**.** They also successfully completed many code challenges and assignments in that process, students attended 36 hours of live in-class lessons. They completed **72 hours** of pre-class and post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), Office-hours, LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
 
 
 - [X] [__Natural Language Processing(NLP)__ ](https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/3-DataAnalysisWithSQL.jpg)
