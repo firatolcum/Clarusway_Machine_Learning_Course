@@ -1,6 +1,5 @@
 <h1><strong><span style="color: #77C8D5;">ML Modul Week-2 (16-August-2022)</strong></span>
 
-![logo](ds_agenda_logo.png)
 
 <br>
 
@@ -80,6 +79,6 @@ The main and only aim of this part is to develop your skills that you need durin
 
 Please discuss the following subjects within the group.
 
-3. Review this notebook with your group friends (You can also find this notebook in github folder. This notebook is from kaggle)(https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial/notebook)
+1. Review this notebook with your group friends (You can also find this notebook in github folder. This notebook is from kaggle)(https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial/notebook)
 
 
